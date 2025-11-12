@@ -51,7 +51,6 @@ Müşteri kaybı (churn) tahminine yönelik sınıflandırma veri setidir.
 * Pandas, NumPy
 * Scikit-learn
 * XGBoost
-* Matplotlib, Seaborn
 
 ---
 
@@ -105,8 +104,3 @@ XGBoost Regressor R2: 0.51
 
 Bu çalışma eğitim amaçlıdır.
 Kullanılan veri setleri [Kaggle](https://www.kaggle.com/datasets/kashnitsky/mlcourse) üzerinden sağlanmıştır.
-
----
-
-İstersen buna küçük bir **“Görseller”** bölümü ekleyip confusion matrix ve feature importance grafiği örneği de koyabiliriz.
-Ekleyeyim mi {Quicksilver}? 📊
